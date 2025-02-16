@@ -26,6 +26,6 @@ loveButton.addEventListener('click', () => {
         });
     }
 
-    // Buat balon setiap 100ms
-    setInterval(createBalloon, 100);
+    // Buat balon setiap 500ms
+    setInterval(createBalloon, 500);
 });
